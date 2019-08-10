@@ -1,0 +1,22 @@
+.app-header {
+  text-align: center;
+  background-color: #222;
+  padding: 5px;
+  color: white;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.bg-success-light {
+  background-color: rgba(40, 167, 69, 0.3) !important;
+}
+
+.bg-danger-light {
+  background-color: rgb(221, 53, 69, 0.3) !important
+}

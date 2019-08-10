@@ -1,0 +1,13 @@
+.percentage-bar {
+  position: absolute;
+  height: 100%;
+  top: 0;
+}
+
+.bid-percentage-bar {
+  right: 0;
+}
+
+.ask-percentage-bar {
+  left: 0;
+}
